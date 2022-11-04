@@ -1,9 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Parking Spot System
 PURPOSE OF PROJECT: To be able to add, delete and list parking slots. Additionally, park, find and remove cars from parking slot. 
 VERSION or DATE: 11/09/22
