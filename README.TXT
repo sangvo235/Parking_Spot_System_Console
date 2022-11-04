@@ -7,7 +7,7 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: Parking Spot System
 PURPOSE OF PROJECT: To be able to add, delete and list parking slots. Additionally, park, find and remove cars from parking slot. 
 VERSION or DATE: 11/09/22
-HOW TO START THIS PROJECT: Run Application via void main(String[] args) on BlueJ. 
+HOW TO START THIS PROJECT: Run Application via void main(String[] args) on BlueJ OR run on another IDE. 
 AUTHORS: SANG VO - 104020390
 USER INSTRUCTIONS:
 1) Run Application via the application class.
