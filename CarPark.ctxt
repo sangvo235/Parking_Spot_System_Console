@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\n\ Cark\ Park\ Class\ -\ maintains\ list\ of\ slots\ in\ the\ parking\ \n\ @author\ \ \ \ \ \ \ \ \ Sang\ Vo\ (104020390)\n\ @version\ \ \ \ \ \ \ \ JDK\ 18\n\ @date\ \ \ \ \ \ \ \ \ \ \ 01\ September\ 2022\n
+comment1.params=searching
+comment1.target=boolean\ hasParkingSlot(java.lang.String)
+comment2.params=newId\ newType
+comment2.target=void\ addParkingSlot(java.lang.String,\ boolean)
+comment3.params=identifier
+comment3.target=void\ deleteParkingSlot(java.lang.String)
+comment4.params=registerNumber
+comment4.target=Car\ findACarByRegis(java.lang.String)
+comment5.params=car\ slotId
+comment5.target=void\ addCar(Car,\ java.lang.String)
+comment6.params=
+comment6.target=void\ listSlots()
+comment7.params=regoNumber
+comment7.target=void\ findCar(java.lang.String)
+comment8.params=regoNumber
+comment8.target=void\ deleteCar(java.lang.String)
+numComments=9

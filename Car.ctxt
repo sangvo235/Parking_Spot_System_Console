@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Car\ Class\n\ @author\ \ \ \ \ \ \ \ \ Sang\ Vo\ (104020390)\n\ @version\ \ \ \ \ \ \ \ JDK\ 18\n\ @date\ \ \ \ \ \ \ \ \ \ \ 31\ August\ 2022\n
+comment1.params=newregistrationNumber\ newOwner\ newStaffMember
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ Car\ Class\ \n\ Intializes\ instance\ variables;\ registrationNumber\ and\ owner\ \n\n\ @param\ \ \ registrationNumber\ Car's\ Registration\ Number\n\ @param\ \ \ owner\ Name\ of\ Owner\n\ @param\ \ \ staffMember\ if\ owner\ is\ a\ staff\ member\n
+comment2.params=
+comment2.target=java.lang.String\ getRegistrationNumber()
+comment2.text=\n\ Using\ Get\ Method\n\n\ @return\ \ \ \ Returns\ a\ String\ object\ that\ contains\ the\ selected\ variable\ \n
+comment3.params=
+comment3.target=java.lang.String\ getOwner()
+comment4.params=
+comment4.target=java.time.LocalDateTime\ getLocalDateTime()
+comment5.params=
+comment5.target=boolean\ isStaffMember()
+comment6.params=
+comment6.target=java.lang.String\ displayType()
+comment7.params=localDateTime
+comment7.target=void\ setLocalDateTime(java.time.LocalDateTime)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Java\ internally\ calls\ toString()\ method\n\ Overriding\ this\ method\ will\ return\ specified\ values\n\n\ @return\ \ \ \ Returns\ a\ String\ object\ instead\ of\ hashcode\ values\n
+numComments=9
